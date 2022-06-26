@@ -2,14 +2,14 @@
 ## A python tool that allows you to create accounts as well as unlimited spotify tokens...
 
 ## Features :
-### This File  Steals --->
+
 #### 1. Creating accounts with the Spotify API
 #### 2. Allows you to retrieve generated account tokens
 #### 3. Email address, password and tokens are automatically saved in a .txt file
 
 
 ## Requirements...
-### 1. python 3.10 https://www.python.org/downloads/release/python-3100/
+### Python 3.10 https://www.python.org/downloads/release/python-3100/
 
 
 ## ScreenShots :
